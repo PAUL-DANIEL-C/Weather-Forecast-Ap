@@ -19,6 +19,6 @@ A simple Java CLI app that fetches real-time weather data using the OpenWeatherM
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/Weather-Forecast-Ap.git
+   git clone https://github.com/PAUL-DANIEL-C/Weather-Forecast-Ap.git
    cd Weather-Forecast-Ap
 
